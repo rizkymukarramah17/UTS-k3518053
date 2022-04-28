@@ -44,7 +44,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="h1">About us</h1>
+                    <h1 class="h1">About ADM</h1>
                 </div>
             </div>
         </div>
@@ -53,16 +53,20 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia modi unde cumque! Cum repellendus eveniet, illum id doloribus, quibusdam tenetur debitis est libero quasi assumenda voluptates aliquam tempore. Porro, asperiores.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia modi unde cumque! Cum repellendus eveniet, illum id doloribus, quibusdam tenetur debitis est libero quasi assumenda voluptates aliquam tempore. Porro, asperiores.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia modi unde cumque! Cum repellendus eveniet, illum id doloribus, quibusdam tenetur debitis est libero quasi assumenda voluptates aliquam tempore. Porro, asperiores.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia modi unde cumque! Cum repellendus eveniet, illum id doloribus, quibusdam tenetur debitis est libero quasi assumenda voluptates aliquam tempore. Porro, asperiores.</p>
+                <h4>Our History </h4>
+                <p>Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products. From those modest beginnings, AMD has grown into a global company setting the standard for modern computing through major technological achievements and many important industry firsts along the way.</p>
+                <p>Rooted in an innovation-driven culture, AMD employees collaborate every day to maximize the potential of modern computing, utilizing semiconductor innovation to transform how people live, work, learn and play.</p>
+                <p>Today, AMD offers the industry’s broadest portfolio of leadership high-performance and adaptive processor technologies, combining CPUs, GPUs, FPGAs, Adaptive SoCs and deep software expertise to enable leadership computing platforms for cloud, edge and end devices.</p>
+                <h4>Our vision</h4>
+                <p>Today, AMD offers the industry’s broadest portfolio of leadership high-performance and adaptive processor technologies, combining CPUs, GPUs, FPGAs, Adaptive SoCs and deep software expertise to enable leadership computing platforms for cloud, edge and end devices.</p>
+                <h4>Our Mission</h4>
+                <p>Build great products that accelerate next-generation computing experiences.​</p>
             </div>
         </div>
     </div>
 
     <footer class="jumbotron jumbotron-fluid mt-5 mb-0">
-        <div class="container text-center">Copyright &copy <?= Date('Y') ?> CI News</div>
+        <div class="container text-center">Copyright &copy <?= Date('Y') ?> AMD Radeon™ ProRender is the AMD high-performance, physically-based rendering engine. </div>
     </footer>
 
     <!-- Jquery dan Bootsrap JS -->
