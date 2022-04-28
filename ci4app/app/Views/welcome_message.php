@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Protal Berita Codeigniter</title>
+	<title>ADM</title>
 
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="<?= base_url('css/bootstrap.min.css') ?>" />
@@ -24,10 +24,16 @@
 						<a class="nav-link" href="<?= base_url('about') ?>">About</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="<?= base_url('contact') ?>">Contact</a>
+						<a class="nav-link" href="<?= base_url('product_page') ?>">Product</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="<?= base_url('faqs') ?>">Faqs</a>
+						<a class="nav-link" href="<?= base_url('driver_page') ?>">Driver</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="<?= base_url('technologies_page') ?>">Technologies</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="<?= base_url('contact_page') ?>">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -38,7 +44,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="h1">Portal Berita Codeigniter</h1>
+					<h1 class="h1">ADM Lebih Canggih</h1>
 				</div>
 			</div>
 		</div>
@@ -48,33 +54,39 @@
 		<div class="row">
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Codeigniter 4 Sudah Rilis!</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">The World’s Fastest PC Gaming Processor</h5>
+					<p>Get an average of 15% more performance with ADM Ryzen™ 7 5800X3D, the only processor with ADM 3D V-Cache™ technology.1</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Pengembangan Codeiginter 4 Tertunda</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">The Fastest in the Game</h5>
+					<p>Introducing the ADM Ryzen™ 5000 Series Desktop Processors.</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Wow, Ini 5 Startup yang Menggunakan Codeigniter</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Play It All with Ryzen™ and Radeon™</h5>
+					<p>Browse preconfigured systems from our partners.</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Codeigniter Ternyata Framework Terpopuler di Inodnesia</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Meet the world’s highest-performing server processors for technical computing</h5>
+					<p>AMD EPYC™ 7003 Series processors with AMD 3D V-Cache™ technology accelerate simulations, boost engineering productivity, and speed the product development process.</p>
+				</div>
+			</div>
+			<div class="col-md-12 my-2 card">
+				<div class="card-body">
+					<h5 class="h5">AMD Radeon™ ProRender</h5>
+					<p>AMD Radeon™ ProRender is the AMD high-performance, physically-based rendering engine.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 
 	<footer class="jumbotron jumbotron-fluid mt-5 mb-0">
-		<div class="container text-center">Copyright &copy <?= Date('Y') ?> CI News</div>
+		<div class="container text-center">Copyright &copy <?= Date('Y') ?> AMD Radeon™ ProRender is the AMD high-performance, physically-based rendering engine. </div>
 	</footer>
 
 	<!-- Jquery dan Bootsrap JS -->

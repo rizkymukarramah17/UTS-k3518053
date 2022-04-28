@@ -9,11 +9,6 @@ class Page extends BaseController
         echo view("about_page");
     }
 
-    public function contact()
-    {
-        echo view("contact_page");
-    }
-
     public function products()
     {
         echo view("product_page");
@@ -27,5 +22,10 @@ class Page extends BaseController
     public function technologies()
     {
         echo view("technologies_page");
+    }
+
+    public function contact()
+    {
+        echo view("contact_page");
     }
 }
